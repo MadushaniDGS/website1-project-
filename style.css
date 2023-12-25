@@ -1,0 +1,107 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(194,178,178,1.00) 0%,rgba(230,204,204,1.00) 37.92%,rgba(41,35,35,1.00) 95.44%,rgba(52,45,45,1.00) 100%,rgba(41,35,35,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(194,178,178,1.00) 0%,rgba(230,204,204,1.00) 37.92%,rgba(41,35,35,1.00) 95.44%,rgba(52,45,45,1.00) 100%,rgba(41,35,35,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(194,178,178,1.00) 0%,rgba(230,204,204,1.00) 37.92%,rgba(41,35,35,1.00) 95.44%,rgba(52,45,45,1.00) 100%,rgba(41,35,35,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(194,178,178,1.00) 0%,rgba(230,204,204,1.00) 37.92%,rgba(41,35,35,1.00) 95.44%,rgba(52,45,45,1.00) 100%,rgba(41,35,35,1.00) 100%);
+}
+#carouselExampleIndicators1 .carousel-inner .carousel-item {
+    background-image: -webkit-linear-gradient(270deg,rgba(188,162,163,1.00) 0%,rgba(221,220,220,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(188,162,163,1.00) 0%,rgba(221,220,220,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(188,162,163,1.00) 0%,rgba(221,220,220,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(188,162,163,1.00) 0%,rgba(221,220,220,1.00) 100%);
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(57,55,55,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(57,55,55,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(57,55,55,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(57,55,55,1.00) 0%,rgba(255,0,0,1.00) 100%);
+
+}
+.card-body .card-title.text-center strong {
+    color: #210F1B;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #F1EFEF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+.container-fluid .container footer {
+    background-color: #B6A8A9;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.card #collapseOne1 .card-body {
+    background-color: #8FDFEC;
+}
+#accordion1 .card #collapseThree1 {
+    background-color: #8DE1EE;
+}
+#accordion1 .card #collapseTwo1 {
+    background-color: #8CF0F3;
+}
+.container form #fname {
+	width: 100%; 
+  padding: 12px;  
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical
+}
+.container form #subject {
+	width: 100%; 
+  padding: 12px;  
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical
+}
+.container form #lname {
+	width: 100%; 
+  padding: 12px;  
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical
+}
+
+.container form #email {
+	width: 100%; 
+  padding: 12px;  
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical
+
+}
+
+.container form .sub {
+    background-color: #45A049;
+}
+.container-fluid .container .container {
+	border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.container-fluid .container h4 {
+    color: #A71214;
+}
+.container-fluid .container p {
+    color: #080E20;
+
+}
+
+.container-fluid .container p {
+
+}
